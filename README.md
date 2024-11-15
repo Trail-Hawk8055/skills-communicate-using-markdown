@@ -10,11 +10,11 @@
 
 
 # <h2> adwaith.a-1@mulearn
-
+# <h3> My Name is Adwaith A
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-# <h1> Hello World
-# <f1> ThankYou
+# <h1> script : 
+# <h6> var myVar = "Hello, world!";
 
 <!--
   <<< Author notes: Footer >>>
